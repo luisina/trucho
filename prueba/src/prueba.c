@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hola soy nahuel y lo cambie! muahaha");
+	puts("va el segundo cambio");
 	return EXIT_SUCCESS;
 }
