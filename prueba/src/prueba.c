@@ -12,6 +12,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("va el segundo cambio");
+	puts("Luisina esta probando si puede hacer un commit\n");
+	printf("Un saludo para los muchachos =D");
 	return EXIT_SUCCESS;
 }
