@@ -13,6 +13,7 @@
 
 int main(void) {
 	puts("Luisina esta probando si puede hacer un commit\n");
-	printf("Un saludo para los muchachos =D");
+	printf("Un saludo para los muchachos =D\n");
+	printf("Un commit más ;)");
 	return EXIT_SUCCESS;
 }
